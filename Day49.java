@@ -9,8 +9,6 @@ public class main{
                 System.out.println("bilangan positif");
              }else if (a<0){
                  System.out.println("bilangan negatif");
-             }else{
-                 System.out.println("nol");
              }
          }
     
