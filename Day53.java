@@ -5,7 +5,7 @@ public class Abraham {
         Scanner input=new Scanner(System.in);
         System.out.println("masukkan batas maksimal: ");
         int x = input.nextInt();;
-        System.out.println("berikut angka genap yang dihitung mulai dari 1 sampai"+ x + ": ");
+        System.out.println("berikt angka yang dimulai dari "+ x + ": ");
         for (int y=2; y<=x ;y++){
             System.out.println(y);
         }
