@@ -19,6 +19,6 @@ public class Mahasiswa {
     }
 
     public static void main(String[] args) {
-        Mahasiswa mahasiswa = new Mahasiswa("Andi", "123456", "Teknik Informatika");
+        Mahasiswa mahasiswa = new Mahasiswa("Abraham", "D0224001", "Teknik Informatika");
         System.out
           
