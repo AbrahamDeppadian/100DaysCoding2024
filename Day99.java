@@ -4,7 +4,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         Scanner oke = new Scanner(System.in);
-        System.out.println("KALKULATOR BY NIEL");
+        System.out.println("KALKULATOR BY ABRAHAM");
             System.out.println("cara penggunaan!!");
             System.out.println("angka pertama,spasi, operator,spasi, angka kedua");
             System.out.println("operator yang di gunakan(+, -, *, /)");
